@@ -7,6 +7,7 @@
 | 技能 | 用途 |
 | --- | --- |
 | [百万播放爆款开头](skills/million-view-opening-hooks/SKILL.md) | 使用连环否定、一招搞定、只问不答、树立敌人、放大损失五种结构，设计黄金 3 秒和前 12 秒承接 |
+| [抖音爆款策划师](skills/douyin-viral-planner/SKILL.md) | 策划抖音选题、口播脚本、黄金 3 秒、分镜、标题封面、互动收尾和发布测试 |
 
 ## 目录约定
 
@@ -27,4 +28,5 @@ self-media-skills/
 ```bash
 git clone https://github.com/Leon-Drq/self-media-skills.git
 cp -R self-media-skills/skills/million-view-opening-hooks ~/.codex/skills/
+cp -R self-media-skills/skills/douyin-viral-planner ~/.codex/skills/
 ```
