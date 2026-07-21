@@ -1,0 +1,4 @@
+interface:
+  display_name: "百万播放爆款开头"
+  short_description: "用五种案例验证结构设计高留存短视频开头与自然承接"
+  default_prompt: "使用 $million-view-opening-hooks 为这个选题设计高留存开头，并说明选择依据、前12秒承接和正文必须兑现的证据。"
