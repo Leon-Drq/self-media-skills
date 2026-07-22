@@ -1,0 +1,4 @@
+interface:
+  display_name: "WeChat to X Article"
+  short_description: "Turn WeChat posts into English X Articles"
+  default_prompt: "Use $wechat-to-x-article to turn this WeChat article into an idiomatic English X Article with a rich-copy page."
