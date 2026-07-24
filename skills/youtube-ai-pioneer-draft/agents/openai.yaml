@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube → AI Pioneer 草稿"
+  short_description: "把 YouTube 视频转成 AI Pioneer 图文稿并上传公众号草稿箱。"
+  default_prompt: "把这个 YouTube 视频转成 AI Pioneer 文章并发布到公众号草稿箱："

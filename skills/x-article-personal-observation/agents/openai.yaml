@@ -1,0 +1,4 @@
+interface:
+  display_name: "X Article Personal Observation"
+  short_description: "Turn Chinese AI/tech drafts into English X Articles"
+  default_prompt: "Use $x-article-personal-observation to rewrite this Chinese AI/tech draft into an English X Article with a personal-observation voice."

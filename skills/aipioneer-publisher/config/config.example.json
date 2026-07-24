@@ -1,0 +1,26 @@
+{
+  "wechat": {
+    "appId": "YOUR_WECHAT_APPID",
+    "appSecret": "YOUR_WECHAT_APPSECRET",
+    "token": "",
+    "encodingAESKey": ""
+  },
+  "server": {
+    "port": 3000,
+    "host": "localhost"
+  },
+  "publishing": {
+    "defaultAuthor": "AI Pioneer",
+    "defaultStyle": "ai-pioneer-black",
+    "defaultWriter": "khazix",
+    "autoPublish": false
+  },
+  "fetcher": {
+    "timeout": 30000,
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+  },
+  "openclaw": {
+    "gatewayUrl": "http://localhost:18800",
+    "enabled": true
+  }
+}
