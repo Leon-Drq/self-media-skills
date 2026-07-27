@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Pioneer Deep Writing"
+  short_description: "写出有证据链、真实配图和传播感的AI深度稿"
+  default_prompt: "Use $ai-pioneer-deep-writing to write an AI Pioneer deep-dive article with real sources, images, and benchmark-quality self-review."

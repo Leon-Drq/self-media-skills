@@ -1,0 +1,35 @@
+{
+  "name": "aipioneer-publisher",
+  "version": "1.0.0",
+  "description": "AIPioneer 公众号发布器 - 一键完成素材获取、改写、排版、发布",
+  "author": "AI Pioneer",
+  "tags": ["wechat", "publisher", "writing", "khazix", "自媒体", "公众号"],
+  "triggers": [
+    "帮我发布这篇文章",
+    "用AI Pioneer排版发布",
+    "卡兹克风格发布",
+    "一键发布到公众号",
+    "发公众号"
+  ],
+  "requires": {
+    "services": [
+      {
+        "name": "wechat-typesetting",
+        "url": "http://localhost:3000",
+        "description": "微信排版和推送服务"
+      }
+    ],
+    "tools": [
+      {
+        "name": "browser",
+        "description": "浏览器自动化工具（用于 X/Twitter 获取）"
+      }
+    ],
+    "env": [
+      "WECHAT_APPID",
+      "WECHAT_SECRET"
+    ]
+  },
+  "repository": "https://github.com/你的用户名/aipioneer-publisher",
+  "license": "MIT"
+}

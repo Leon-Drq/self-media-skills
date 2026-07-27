@@ -1,0 +1,15 @@
+{
+  "name": "aipioneer-style",
+  "description": "AI Pioneer 公众号排版样式 v1.0 - 纯黑极简风格",
+  "version": "1.0.0",
+  "author": "AI Pioneer",
+  "tags": ["排版", "样式", "公众号", "微信", "极简", "纯黑"],
+  "triggers": [
+    "排版",
+    "样式",
+    "ai-pioneer-black",
+    "纯黑样式"
+  ],
+  "status": "active",
+  "deprecated": false
+}

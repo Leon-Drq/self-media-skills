@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Pioneer News"
+  short_description: "短新闻深度稿：事实先行、实验现场、反常识判断"
+  default_prompt: "Use $ai-pioneer-news to write a short AI Pioneer news analysis with hard facts, a watchable news or benchmark scene, and a sharp contrarian takeaway."

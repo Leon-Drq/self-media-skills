@@ -1,0 +1,20 @@
+{
+  "name": "write-skill",
+  "description": "自媒体爆款写作方法论 - 支持智能图片提取、自动封面生成、图片内容匹配",
+  "version": "1.2.0",
+  "author": "AI Pioneer",
+  "tags": ["writing", "自媒体", "爆款", "起号", "内容创作", "图片提取", "自动封面"],
+  "triggers": [
+    "写文章",
+    "写爆款",
+    "自媒体写作",
+    "起号写作",
+    "写文案",
+    "帮我写",
+    "提取图片"
+  ],
+  "requires": {
+    "skills": ["image-extractor"],
+    "tools": ["curl", "grep", "imagemagick"]
+  }
+}
