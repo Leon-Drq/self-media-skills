@@ -1,0 +1,4 @@
+interface:
+  display_name: "口播删稿编导"
+  short_description: "删除正确废话，用动作与证据替代形容词，把行业大词改成用户会说的话"
+  default_prompt: "使用 $cut-spoken-script 把这篇草稿删到不能再删，并改成有证据、像用户说话的口播终稿。"

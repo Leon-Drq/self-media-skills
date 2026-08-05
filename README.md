@@ -8,6 +8,7 @@
 | --- | --- |
 | [百万播放爆款开头](skills/million-view-opening-hooks/SKILL.md) | 使用连环否定、一招搞定、只问不答、树立敌人、放大损失五种结构，设计黄金 3 秒和前 12 秒承接 |
 | [抖音爆款策划师](skills/douyin-viral-planner/SKILL.md) | 策划抖音选题、口播脚本、黄金 3 秒、分镜、标题封面、互动收尾和发布测试 |
+| [口播删稿编导](skills/cut-spoken-script/SKILL.md) | 删除正确废话，把形容词改成动作与证据，并把行业大词改成用户会说的话 |
 | [封面设计](skills/cover-design-open/SKILL.md) | 使用 10 种构图风格、真人参考图和产品素材，生成公众号、小红书、B站与短视频封面提示词 |
 | [AI Pioneer 深度写作](skills/ai-pioneer-deep-writing/SKILL.md) | 将 AI/科技新闻、论文、产品与产业事件写成有证据链、真实配图和可传播判断的深度公众号文章 |
 | [AI Pioneer 新闻写作](skills/ai-pioneer-news/SKILL.md) | 把 AI 热点快速写成信息密度高、包含真实配图的短新闻深度稿 |
