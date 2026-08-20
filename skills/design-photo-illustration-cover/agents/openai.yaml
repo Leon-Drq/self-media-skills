@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片×纸感插画封面"
+  short_description: "为每张照片生成独立的上下等分摄影与纸感手绘高级封面设计"
+  default_prompt: "使用 $design-photo-illustration-cover 将我上传的每张照片分别制作成一张 3:4 摄影×纸感插画封面。"
