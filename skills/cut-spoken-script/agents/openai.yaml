@@ -1,4 +1,4 @@
 interface:
-  display_name: "口播删稿编导"
-  short_description: "删除正确废话，用动作与证据替代形容词，把行业大词改成用户会说的话"
-  default_prompt: "使用 $cut-spoken-script 把这篇草稿删到不能再删，并改成有证据、像用户说话的口播终稿。"
+  display_name: "一流编导改脚本"
+  short_description: "先删到不能再删，用证据替代形容词，把专业话改成用户话"
+  default_prompt: "使用 $cut-spoken-script 精修这篇短视频脚本：先删到不能再删，再用可验证的动作或结果替代形容词，并改成目标用户会说的话；不要虚构数据。"
